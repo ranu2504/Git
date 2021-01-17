@@ -2,3 +2,4 @@ one line added
 second line added from master
 third line added from feature
 fourth line added from feature
+fifth line added from master
